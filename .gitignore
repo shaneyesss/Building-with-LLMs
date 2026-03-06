@@ -1,0 +1,15 @@
+# Answer key (instructor only)
+activity-key.ipynb
+
+# IDE / editor
+.ferrite/
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
